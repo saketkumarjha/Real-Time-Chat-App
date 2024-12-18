@@ -1,14 +1,14 @@
 
-# Baatcheet - Real-time Chat Application
+# KuraKaani - Real-time Chat Application
 
-Baatcheet is a modern real-time chat application that enables users to create or join chat rooms and communicate instantly with other participants. The application features a clean, responsive interface and supports real-time message delivery using WebSocket technology.
+KuraKaani is a modern real-time chat application that enables users to create or join chat rooms and communicate instantly with other participants. The application features a clean, responsive interface and supports real-time message delivery using WebSocket technology.
 
 ## Features
 
 ### Room Management
 - Create new rooms with auto-generated unique room IDs
 - Join existing rooms using room IDs
-- Copy room IDs to clipboard for easy sharing
+- Copy room IDs to the clipboard for easy sharing
 - Real-time user connection tracking
 
 ### Chat Features
@@ -19,13 +19,12 @@ Baatcheet is a modern real-time chat application that enables users to create or
 - Enter key support for sending messages
 
 ### UI/UX
-- Clean, modern interface with dark theme
+- Clean, modern interface with a dark theme
 - Responsive design that works on mobile and desktop
 - Toast notifications for important actions
 - Smooth transitions and hover effects
 - Scrollable message history
 
-## Tech Stack
 
 ### Frontend
 - **React** - UI library
@@ -42,10 +41,9 @@ Baatcheet is a modern real-time chat application that enables users to create or
 - **ws** - WebSocket server implementation
 - **Express** - Web server framework
 
-## Architecture
 
 ### Frontend Architecture
-The frontend is built as a single-page application (SPA) with React. Key components include:
+The front end is built as a single-page application (SPA) with React. Key components include:
 - Connection management with WebSocket
 - State management using React hooks
 - Responsive UI components
@@ -106,4 +104,4 @@ The application uses a simple message protocol over WebSocket:
 - File sharing capabilities
 - User presence indicators
 - Room participant list
-- Private messaging
+- Private Messaging
