@@ -1,7 +1,6 @@
 
 
-
-KuraKaani is a modern real-time chat application that enables users to create or join chat rooms and communicate instantly with other participants. The application features a clean, responsive interface and supports real-time message delivery using WebSocket technology.
+It is a modern real-time chat application that enables users to create or join chat rooms and communicate instantly with other participants. The application features a clean, responsive interface and supports real-time message delivery using WebSocket technology.
 
 ## Features
 
